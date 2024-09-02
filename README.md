@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/paulo-pereira95/)
 
+
 ### My Favourite Programing Language is: 
 
 - **Python** :snake:
@@ -40,3 +41,19 @@ Here are some ideas to get you started:
 ➤ [EN] English (Independent User)
 
 ➤ [ES] Spanish (Independent User)
+
+**Personal Information:**
+Name:. [^1] 
+University:. [^2]
+Faculty:. [^3]
+Phone:. [^4]
+Email:. [^5]
+Socials:. [^6]
+
+[^1]: Paulo Sérgio Marques Pereira.
+[^2]: University of Coimbra
+[^3]: Faculty of Pharmacy of the University of Coimbra
+[^4]: +351 927 166 710
+[^5]: paulo.m.pereira95@gmail.com
+[^6]: [LINKEDIN](https://www.linkedin.com/in/paulo-pereira95/)
+
