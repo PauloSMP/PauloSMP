@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 - 👯 I’m looking to collaborate on **Data Science Projects**
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/paulo-pereira95/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/paulosmp/)
 
 
 ### My Favourite Programing Language is: 
