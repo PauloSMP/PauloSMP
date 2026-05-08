@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **PhD Project in Pharmaceutical Science**
   
-- 🌱 I’m currently learning **Python**//**R**/**SQL**/**Machine Learning**//**Data Science** python logo
+- 🌱 I’m currently learning **Python**//**R**/**SQL**/**Machine Learning**//**Data Science**
   
 - 👯 I’m looking to collaborate on **Data Science Projects**
   
